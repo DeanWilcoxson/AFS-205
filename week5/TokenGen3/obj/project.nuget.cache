@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3gAl/fjG19N0GN2jcHykXeisbKhLHQcpLEq7mvUGpEDPvLke3SqfDFyCQzBr3KEr34Tb401L+Y/DLms6FLFUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gainious\\source\\repos\\TokenGen3\\TokenGen3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gainious\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
